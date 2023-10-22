@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ItsGajju/NETFLIX-CLONE.git/static/css/main.056aaffe.css",
+    "main.js": "/ItsGajju/NETFLIX-CLONE.git/static/js/main.866e9f7e.js",
+    "static/media/logo.png": "/ItsGajju/NETFLIX-CLONE.git/static/media/logo.5b38a2c389cdb4565fc2.png",
+    "index.html": "/ItsGajju/NETFLIX-CLONE.git/index.html",
+    "main.056aaffe.css.map": "/ItsGajju/NETFLIX-CLONE.git/static/css/main.056aaffe.css.map",
+    "main.866e9f7e.js.map": "/ItsGajju/NETFLIX-CLONE.git/static/js/main.866e9f7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056aaffe.css",
+    "static/js/main.866e9f7e.js"
+  ]
+}
